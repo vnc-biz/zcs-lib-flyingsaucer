@@ -1,4 +1,4 @@
-VERSION=8.99.2.1
+VERSION=8.99.2.2
 PACKAGE=zcs-lib-flyingsaucer
 MAINTAINER=Enrico Weigelt <enrico.weigelt@vnc.biz>
 SECTION=base
